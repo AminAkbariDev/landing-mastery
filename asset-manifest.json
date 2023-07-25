@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/landing-mastery/static/css/main.c50ef6a9.css",
+    "main.js": "/landing-mastery/static/js/main.13994122.js",
+    "static/media/subscribe-bg.png": "/landing-mastery/static/media/subscribe-bg.66bb18fcec635d82553c.png",
+    "static/media/phone-header-bg.png": "/landing-mastery/static/media/phone-header-bg.c0ca1798311c080127c0.png",
+    "static/media/phone-features.png": "/landing-mastery/static/media/phone-features.fdadf84ec3bc2a0d3094.png",
+    "index.html": "/landing-mastery/index.html",
+    "main.c50ef6a9.css.map": "/landing-mastery/static/css/main.c50ef6a9.css.map",
+    "main.13994122.js.map": "/landing-mastery/static/js/main.13994122.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c50ef6a9.css",
+    "static/js/main.13994122.js"
+  ]
+}
